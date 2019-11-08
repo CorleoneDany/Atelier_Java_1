@@ -14,5 +14,8 @@ public class Main {
 		Promote promote = new Promote();
 		promote.Blabla();
 		promote.Blabla_2();
+		
+		Casts casts = new Casts();
+		casts.int_to_ASCII();
 	}
 }

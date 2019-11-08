@@ -1,10 +1,8 @@
 package Java_Atelier_1;
 
 public class Operators {
-	boolean x = true;
-	boolean y = false;
 	
-	void Table(){
-		System.out.println("x" + "\t" + "y" + "\t" + );
-	}
+		void Table(){
+			System.out.println("x" + "\t" + "y" + "\t" + "x and y" + "\t" + "x or y" + "\t" + "x xor y");
+		}
 }
