@@ -10,5 +10,9 @@ public class Main {
 		
 		Variables variables = new Variables();
 		variables.Sqr_root();
+		
+		Promote promote = new Promote();
+		promote.Blabla();
+		promote.Blabla_2();
 	}
 }
