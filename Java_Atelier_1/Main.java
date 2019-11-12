@@ -17,5 +17,11 @@ public class Main {
 		
 		Casts casts = new Casts();
 		casts.int_to_ASCII();
+		
+		Program program = new Program();
+		program.Calculate();
+		
+		Furniture furniture = new Furniture();
+		furniture.Calculate(1, 1, 2);
 	}
 }
