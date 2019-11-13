@@ -23,5 +23,9 @@ public class Main {
 		
 		Furniture furniture = new Furniture();
 		furniture.Calculate(1, 1, 2);
+		
+		Bonjour0 bonjour = new Bonjour0();
+		bonjour.Language();
+		}
 	}
-}
+

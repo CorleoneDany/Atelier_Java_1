@@ -12,3 +12,15 @@ public class Furniture {
 		}
 	}
 }
+
+
+//public class test {
+//
+//    public static void main(String[] args) throws Exception {
+//           if (args.length != 3) {
+//                    throw new Exception("Il nous faut au minimum 3 paramètres.");
+//            }
+//            System.out.println("Il y a assez de paramètres.");
+//    }
+//
+//}
